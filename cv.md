@@ -1,21 +1,38 @@
 #Hi my name is _Mikhail Chasha_.
-![Mikhail Chasha](https://disk.yandex.ru/i/E6a5JMkFCjwMfQ "Mikhail Chasha")
+
+![Mikhail Chasha](/img/me.jpg "Mikhail Chasha")
+
+**Navigation bar**
+
+- [Biography](#Biography)
+- [Contacts](#Contacts)
+- [Skills](#Skills)
+- [Projects](#Projects)
+
+# Biography
 
 I am 34 years old and live in Soligorsk city.
 
 In 2011 he graduated from the full-time department of BSUIR with a degree in radio electronics engineering. During studying i started to learn HTML, CSS, JS. At first it was some kind of fun, but in future i liked to do it as freelance. In 2011 started to work as engineer. At my first work i have been developing printed circuit boards and wrote software in c for Microchip microcontrollers. C language is very similar to PHP, so i decided to join **HTML, CSS, JS and PHP,MYSQL**. As a result i could make more difficult projects and i fall in love in this technology. Now i'm trying to develop my skill and learn something new.
 
-**My skills:**
-HTML
-CSS
-JS
-PHP
-MYSQL
-PHOTOSHOP
-GIT
-Mobirise
+# Contacts
 
-**Some projects:**
+- [email](mailto:chasha1307@gmail.com?subject=Message "email")
+- [telegram](https://t.me/MikhailProger "telegram")
+- [github](https://github.com/mchasha "github")
+
+# Skills
+
+- HTML
+- CSS
+- JS
+- PHP
+- MYSQL
+- PHOTOSHOP
+- GIT
+- Mobirise
+
+# Projects
 
 - [city portal](https://www.vsolike.by/ "city portal")
 - [ordering a minibus from Soligorsk to Minsk](https://soligorsk10.by/ "web site with handmake admin panen for dispatcher and drivers")

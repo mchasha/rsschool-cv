@@ -1,13 +1,13 @@
-#Hi my name is _Mikhail Chasha_.
+# Hi my name is _Mikhail Chasha_.
 
-![Mikhail Chasha](/img/me.jpg "Mikhail Chasha")
+![Mikhail Chasha](./img/me.jpg "Mikhail Chasha")
 
 **Navigation bar**
 
-- [Biography](#Biography)
-- [Contacts](#Contacts)
-- [Skills](#Skills)
-- [Projects](#Projects)
+- [Biography](#biography)
+- [Contacts](#contacts)
+- [Skills](#skills)
+- [Projects](#projects)
 
 # Biography
 
@@ -36,5 +36,5 @@ In 2011 he graduated from the full-time department of BSUIR with a degree in rad
 
 - [city portal](https://www.vsolike.by/ "city portal")
 - [ordering a minibus from Soligorsk to Minsk](https://soligorsk10.by/ "web site with handmake admin panen for dispatcher and drivers")
-- [ordering a minibus from Soligorsk to Minsk ver2](http://stolica555.by/ "web site with handmake admin panen for dispatcher and drivers")
+- [ordering a minibus from Soligorsk to Minsk ver2](https://stolica555.by/ "web site with handmake admin panen for dispatcher and drivers")
 - and the other small one

@@ -13,6 +13,7 @@
 
 I am 34 years old and live in Soligorsk city.
 
+At school i have been studying english during eleven years, and during five years at university.
 In 2011 he graduated from the full-time department of BSUIR with a degree in radio electronics engineering. During studying i started to learn HTML, CSS, JS. At first it was some kind of fun, but in future i liked to do it as freelance. In 2011 started to work as engineer. At my first work i have been developing printed circuit boards and wrote software in c for Microchip microcontrollers. C language is very similar to PHP, so i decided to join **HTML, CSS, JS and PHP,MYSQL**. As a result i could make more difficult projects and i fall in love in this technology. Now i'm trying to develop my skill and learn something new.
 
 # Contacts
@@ -31,6 +32,7 @@ In 2011 he graduated from the full-time department of BSUIR with a degree in rad
 - PHOTOSHOP
 - GIT
 - Mobirise
+- English level is B2
 
 # Projects
 

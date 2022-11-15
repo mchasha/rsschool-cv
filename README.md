@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv public repository
+[CV](https://mchasha.github.io/rsschool-cv/cv "mchasha CV")
